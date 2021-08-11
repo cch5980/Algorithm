@@ -46,4 +46,5 @@
 | BOJ_10815 |  실버4  | [문제](https://www.acmicpc.net/problem/10815) | 링크 |    [소스코드](./BOJ/src/study01/BOJ_10815_loop.java)     |   정렬, 이분 탐색    |
 | BOJ_1012  |  실버2  | [문제](https://www.acmicpc.net/problem/1012)  | 링크 |       [소스코드](./BOJ/src/study01/BOJ_1012.java)        |   그래프, DFS, BFS   |
 | BOJ_9663  |  골드5  | [문제](https://www.acmicpc.net/problem/9663)  | 링크 |       [소스코드](./BOJ/src/study01/BOJ_9663.java)        | 백트래킹, 브루트포스 |
+| BOJ_10021 |  골드3  | [문제](https://www.acmicpc.net/problem/10021) | 링크 |       [소스코드](./BOJ/src/study01/BOJ_10021.java)       |     그래프, MST      |
 
