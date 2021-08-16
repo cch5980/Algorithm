@@ -48,4 +48,5 @@
 | BOJ_9663  |  골드5  | [문제](https://www.acmicpc.net/problem/9663)  | 링크 |       [소스코드](./BOJ/src/study01/BOJ_9663.java)        |    백트래킹, 브루트포스    |
 | BOJ_10021 |  골드3  | [문제](https://www.acmicpc.net/problem/10021) | 링크 |       [소스코드](./BOJ/src/study01/BOJ_10021.java)       |        그래프, MST         |
 | BOJ_9881  | 브론즈1 | [문제](https://www.acmicpc.net/problem/9881)  | 링크 |       [소스코드](./BOJ/src/study01/BOJ_9881.java)        | 브루트포스, 슬라이딩윈도우 |
+| BOJ_13604 | 브론즈2 | [문제](https://www.acmicpc.net/problem/13604) | 링크 |       [소스코드](./BOJ/src/study01/BOJ_13604.java)       |            구현            |
 
