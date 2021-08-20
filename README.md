@@ -21,6 +21,7 @@
 |  LV1_수박수박수박수박수박수  | [문제](https://programmers.co.kr/learn/courses/30/lessons/12922) | 링크 | [소스코드](./Programmers/src/lv1/Programmers_수박수박수박수박수박수.java) |         조건문          |
 |      LV1_같은숫자는싫어      | [문제](https://programmers.co.kr/learn/courses/30/lessons/12906?language=java) | 링크 | [소스코드](./Programmers/src/lv1/Programmers_같은숫자는싫어.java) |         조건문          |
 |     LV1_핸드폰번호가리기     | [문제](https://programmers.co.kr/learn/courses/30/lessons/12948) | 링크 | [소스코드](./Programmers/src/lv1/Programmers_핸드폰번호가리기.java) |         조건문          |
+|        LV2_문자열압축        | [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) | 링크 | [소스코드](./Programmers/src/lv2/Programmers_문자열압축.java) |         문자열          |
 
 
 
