@@ -4,6 +4,7 @@
 
 # chichi
 .DS_Store
+.idea/
 
 ### Eclipse ###
 .metadata
