@@ -55,4 +55,5 @@
 | BOJ_13604 | 브론즈2 | [문제](https://www.acmicpc.net/problem/13604) |                             링크                             |       [소스코드](./BOJ/src/study01/BOJ_13604.java)       |            구현            |
 | BOJ_1439  |  실버5  | [문제](https://www.acmicpc.net/problem/1439)  |                             링크                             |       [소스코드](./BOJ/src/study01/BOJ_1439.java)        |           그리디           |
 | BOJ_14502 |  골드5  | [문제](https://www.acmicpc.net/problem/14502) | [링크](https://velog.io/@cch5980/JAVA-%EB%B0%B1%EC%A4%80-%EC%97%B0%EA%B5%AC%EC%86%8C14502) |       [소스코드](./BOJ/src/study01/BOJ_14502.java)       |    BFS, DFS, 브루트포스    |
+| BOJ_7576  |  실버1  | [문제](https://www.acmicpc.net/problem/7576)  |                             링크                             |       [소스코드](./BOJ/src/study01/BOJ_7576.java)        |            BFS             |
 
